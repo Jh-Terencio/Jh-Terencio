@@ -1,5 +1,7 @@
 ### Olá! Me chamo João Terêncio, e seja bem-vindo(a) ao meu perfil!
 
+<p>"Eu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar." ~Alan turing</p>
+
 <div align="center">
   <a href="https://github.com/Jh-Terencio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jh-Terencio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
