@@ -11,7 +11,7 @@
 - 👨‍💻 Front-End Developer at IEEE - CEFET/RJ
 - 📘 Currently learning Python for Data Science and Data Analysis
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jh-Terencio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true" alt="GitHub Stats">
@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ter%C3%AAncio-36295722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-### Job experience
+## <img src="https://divisiononestaffing.com/wp-content/uploads/2022/04/187-suitcase-outline.gif" width="35"> **Job experience**
 
 <img align="left" height="94px" width="94px" alt="BNDES" src="https://jornalcocamar.com.br/wp-content/uploads/2023/08/Logo-BNDES-2048x2048.png"/>
 
