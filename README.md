@@ -39,31 +39,30 @@
 
 ### Job experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+<img align="left" height="94px" width="94px" alt="BNDES" src="https://jornalcocamar.com.br/wp-content/uploads/2023/08/Logo-BNDES-2048x2048.png"/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**System Analyst Intern** • 11/2023 - Present \
+**Banco Nacional de Desenvolvimento Social e Econômico** \
+Programming languages & Technologies: `Python`, `Power BI`, `Power Automate`, `Excel`, `SAP` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+<img align="left" height="94px" width="94px" alt="IEEE" src="https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_200_200/0/1631326760285?e=1727308800&v=beta&t=QjG7L42TGrfeGwXV7bTtL920KE00jHJeNoOQZL_og8A"/>
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Web Developer (Front-End)** • 03/2022 - Present \
+**IEEE** • Volunteer \
+Programming languages & Technologies: `ReactJS`,  `Node`, `Docker`, `JavaScript`, `HTML`, `CSS`, `Figma`,\
+Projects: [IEEE CEFET/RJ Official Branch Website](https://ramocefetrj.com.br/), Smart Garden
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+<img align="left" height="94px" width="94px" alt="Centauro" src="https://media.licdn.com/dms/image/C560BAQGAHjNZyiV_og/company-logo_200_200/0/1631380668551?e=1727308800&v=beta&t=FAmarvpTM55z2DpmvunD4wvLJSFA4f7Njffh86DUQ6Q"/>
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**IT intern** • 05/2023 - 11/2023 \
+**Centauro Engenharia e Informática** \
+Programming languages & Technologies: `PHP`, `JavaScript`, `HTML`, `CSS`, `WordPress` \
+Projects: [Centauro Official Website](https://www.centaurotelecom.com.br/), [Centauro Operation Website](http://www2.centaurotelecom.com.br:8080/centauro_desk/)
+<br/>
+
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Contact me at my [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ter%C3%AAncio-36295722b/) for more details about my job experiience, education and certificates.
