@@ -9,10 +9,10 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> **About me**
 
-- 🎓 21 years old computer science student at CEFET/RJ
-- 💼 System Analyst Intern at BNDES
+- 🎓 22 years old computer science student at CEFET/RJ
+- 💼 Full StackDeveloper at BOCOM BBM
 - 👨‍💻 Front-End Developer at IEEE - CEFET/RJ
-- 📘 Currently learning Python for Data Science and Data Analysis
+- 📘 Currently learning Python for Data Science and Data Analysis and ReactJS + .NET for System Development
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5eXN4Y25ubzc2ZTZlcGlmcWVqeGxqZmVucTNwdXFla2dtdXZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="35"> **GitHub Stats**
 
