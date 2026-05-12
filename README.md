@@ -94,7 +94,7 @@
 
 ## <img src="https://divisiononestaffing.com/wp-content/uploads/2022/04/187-suitcase-outline.gif" width="35"> **Experience**
 
-<img align="left" height="94px" width="94px" alt="BOCOM BBM" src="https://media.licdn.com/dms/image/v2/C4D0BAQEPsXZNJiWuuA/company-logo_200_200/company-logo_200_200/0/1630473046861/bocom_bbm_logo?e=2147483647&v=beta&t=H4k-L1VSmzwGqLKoB95DEFqtwneTAIp9N64MtVb0GH4"/>
+<img align="left" height="94px" width="94px" alt="BOCOM BBM" src="https://github.com/user-attachments/assets/03794381-85a9-45fd-abdc-b09f7d962736"/>
 
 **Full Stack Developer** • 11/2024 - Present \
 **BOCOM BBM** \
@@ -108,7 +108,7 @@ Technologies: `ReactJS`, `.NET`, `JavaScript`, `TypeScript`, `SQL` \
 Technologies: `Python`, `Power BI`, `Power Automate`, `Excel`, `SAP` \
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Centauro" src="https://media.licdn.com/dms/image/C560BAQGAHjNZyiV_og/company-logo_200_200/0/1631380668551?e=1727308800&v=beta&t=FAmarvpTM55z2DpmvunD4wvLJSFA4f7Njffh86DUQ6Q"/>
+<img align="left" height="94px" width="94px" alt="Centauro" src="https://github.com/user-attachments/assets/4352c695-97e0-479e-91ac-4dd9e8cb9cb7"/>
 
 **IT Intern** • 05/2023 - 11/2023 \
 **Centauro Engenharia e Informática** \
@@ -116,7 +116,7 @@ Technologies: `PHP`, `JavaScript`, `HTML`, `CSS`, `WordPress` \
 Projects: [Centauro Official Website](https://www.centaurotelecom.com.br/), [Centauro Operation Website](http://www2.centaurotelecom.com.br:8080/centauro_desk/)
 <br/>
 
-<img align="left" height="94px" width="94px" alt="IEEE" src="https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_200_200/0/1631326760285?e=1727308800&v=beta&t=QjG7L42TGrfeGwXV7bTtL920KE00jHJeNoOQZL_og8A"/>
+<img align="left" height="94px" width="94px" alt="IEEE" src="https://github.com/user-attachments/assets/559128ed-f81a-4a37-95fb-b48446d0b780"/>
 
 **Front-End Developer** • 03/2022 - Present • Volunteer \
 **IEEE – CEFET/RJ** \
@@ -129,7 +129,7 @@ Projects: [IEEE CEFET/RJ Official Branch Website](https://ramocefetrj.com.br/), 
 
 ## 🎓 **Education**
 
-<img align="left" height="94px" width="94px" alt="CEFET/RJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_CEFET-RJ.svg/512px-Logo_CEFET-RJ.svg.png"/>
+<img align="left" height="94px" width="94px" alt="CEFET/RJ" src="https://github.com/user-attachments/assets/0dbcce55-fd8c-4722-9a50-e6de9ddc5b0b"/>
 
 **Bachelor's Degree in Computer Science** • 2022 - Present \
 **Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)** \
