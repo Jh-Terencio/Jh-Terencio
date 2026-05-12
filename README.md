@@ -27,8 +27,6 @@
 
 - 🎓 Computer Science student at **CEFET/RJ**
 - 💼 **Full Stack Developer** at BOCOM BBM
-- 👨‍💻 **Front-End Developer** (Volunteer) at IEEE – CEFET/RJ
-- 📊 **System Analyst Intern** at BNDES
 - 📘 Currently deepening skills in **Python for Data Science**, **ReactJS**, and **.NET**
 - 🌎 Based in **Rio de Janeiro, Brazil**
 
