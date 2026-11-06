@@ -5,7 +5,7 @@
 <h1 align="center">João Terêncio</h1>
 
 <p align="center">
-  <b>Analista de Sistemas @ BOCOM BBM · Desenvolvedor Full Stack (React · .NET · SQL)</b><br>
+  <b>Analista de Sistemas · Desenvolvedor Full Stack @ BOCOM BBM</b><br>
   Rio de Janeiro, Brasil 🇧🇷
 </p>
 
@@ -18,73 +18,60 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor full stack e construo sistemas de crédito no **Banco BOCOM BBM**, atuando de ponta a ponta: das interfaces em **React** às APIs em **.NET** e aos bancos de dados **SQL**.
+Sou desenvolvedor full stack na área de Crédito do **Banco BOCOM BBM**, construindo sistemas com **React**, **.NET** e **SQL**, com atenção a arquitetura limpa e Domain-Driven Design.
 
-Antes disso, fui estagiário de Análise de Sistemas no **BNDES**, trabalhando com dados e automação (Python, Power BI, Power Automate). Sou bacharel em Ciência da Computação pelo **CEFET/RJ**.
+Antes disso, passei mais de um ano no **BNDES** desenvolvendo RPAs com Python e Power Automate para automatizar processos internos, além de dashboards em Power BI para acompanhar o desempenho dessas automações. Sou bacharel em Ciência da Computação pelo **CEFET/RJ**.
 
-- 🔭 Hoje: desenvolvendo funcionalidades da plataforma de crédito com React, .NET e SQL
-- 🌱 Estudando: [ADICIONAR O QUE VOCÊ ESTÁ ESTUDANDO AGORA]
-- 🤝 Aberto a: [EX.: COLABORAÇÕES OPEN SOURCE, MENTORIA, NOVAS OPORTUNIDADES]
+🗣️ Português (nativo) · Inglês (profissional completo) · Espanhol (intermediário)
 
 ## 🛠️ Stack
 
-**No dia a dia**
+**Principal**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Também já trabalhei com**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| :-- | :-- | :-- |
-| [**Site do IEEE CEFET/RJ**](https://ramocefetrj.com.br/) | Site oficial do Ramo Estudantil IEEE do CEFET/RJ, desenvolvido como front-end voluntário. | React · Node.js · Docker |
-| [**Smart Home Monitoring**](https://github.com/Jh-Terencio/smart-home-monitoring) | Sistema de monitoramento residencial IoT com arquitetura publish-subscribe: temperatura, umidade, luminosidade, movimento e presença, com sensores reais ou simulados. | Python · Pub/Sub |
-| [**Marte Crochê**](https://martecroche.vercel.app) | [ADICIONAR DESCRIÇÃO DE UMA LINHA] · [Código](https://github.com/Jh-Terencio/Marte-Croche-Static) | TypeScript |
-| [**InvestingAI**](https://github.com/Jh-Terencio/InvestingAI) | [ADICIONAR DESCRIÇÃO DE UMA LINHA] | [ADICIONAR STACK] |
-
-<p align="right"><a href="https://github.com/Jh-Terencio?tab=repositories">Ver todos os repositórios →</a></p>
+<!-- 🚀 Projetos em destaque: adicionar aqui conforme forem desenvolvidos -->
 
 ## 💼 Experiência
 
-**Banco BOCOM BBM**, Rio de Janeiro
-*Analista de Sistemas, Crédito · jul/2026 – atual*
-*Desenvolvedor Full Stack · nov/2024 – jul/2026*
-- [ADICIONAR 1–2 RESULTADOS, EX.: "CONSTRUÍ X QUE REDUZIU Y EM Z%"]
-- Stack: React, TypeScript, .NET, SQL
+**Banco BOCOM BBM** · Rio de Janeiro
+*Analista de Sistemas (Desenvolvedor Full Stack) · jul/2026 – atual*
+*Estagiário em Análise de Sistemas, Crédito · jan/2025 – jul/2026*
 
-**BNDES – Banco Nacional de Desenvolvimento Econômico e Social**
-*Estagiário de Análise de Sistemas · nov/2023 – nov/2024*
-- [ADICIONAR 1–2 RESULTADOS, EX.: AUTOMAÇÕES OU DASHBOARDS E SEU IMPACTO]
-- Stack: Python, Power BI, Power Automate, Excel, SAP
+**BNDES – Banco Nacional de Desenvolvimento Econômico e Social** · Rio de Janeiro
+*Estagiário em Análise de Sistemas · nov/2023 – dez/2024*
+- **Automação de processos jurídicos:** RPA em Python que busca processos e registra andamentos e compromissos no Projuris para o jurídico, alimentado por um fluxo no Power Automate que filtra e-mails do Outlook para uma planilha centralizada no SharePoint
+- **Painel de métricas de RPAs:** dashboards em Power BI para acompanhar os RPAs do banco, usando Power Query para consumir e tratar dados da API REST do BMC Remedy
 
-**Centauro Engenharia e Informática**
+**Centauro Engenharia e Informática** · Rio de Janeiro
 *Estagiário de TI · mai/2023 – nov/2023*
-- Atuei no [site institucional](https://www.centaurotelecom.com.br/) e em um sistema web interno de operações
-- Stack: PHP, JavaScript, WordPress, HTML/CSS
+- **Portal operacional:** sistema web em PHP, JavaScript, HTML e CSS para criação, armazenamento e acompanhamento das ordens de serviço da empresa, com integrações via API
+- **[Site institucional](https://www.centaurotelecom.com.br/):** desenvolvido em WordPress e integrado ao portal de abertura de ordens de serviço dos clientes
 
-**Ramo Estudantil IEEE CEFET/RJ**
-*Desenvolvedor Front-End (Voluntário) · mar/2022 – [ATUAL OU DATA DE SAÍDA]*
-- Desenvolvi o [site oficial do ramo](https://ramocefetrj.com.br/) e o projeto Smart Garden
-- Stack: React, Node.js, Docker, Figma
+**Ramo Estudantil IEEE CEFET/RJ** · Equipe WolfByte
+*Desenvolvedor de Software (Voluntário) · mai/2022 – dez/2024*
+- **[Site oficial do Ramo](https://ramocefetrj.com.br/):** aplicação em React usada no processo seletivo do Ramo
+- **Smart Garden:** app em React Native para gerenciar irrigadores automáticos, com back-end simulado em Docker e telas prototipadas no Figma
 
 ## 🎓 Formação
 
-**Bacharelado em Ciência da Computação**, CEFET/RJ · 2021 – 2026
-
-**Certificações:** [ADICIONAR CERTIFICAÇÕES OU REMOVER ESTA LINHA]
+**Bacharelado em Ciência da Computação** · CEFET/RJ · 2021 – 2026
 
 ## 📊 Estatísticas no GitHub
 

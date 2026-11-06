@@ -5,7 +5,7 @@
 <h1 align="center">João Terêncio</h1>
 
 <p align="center">
-  <b>Systems Analyst @ BOCOM BBM · Full Stack Developer (React · .NET · SQL)</b><br>
+  <b>Systems Analyst · Full Stack Developer @ BOCOM BBM</b><br>
   Rio de Janeiro, Brazil 🇧🇷
 </p>
 
@@ -18,73 +18,60 @@
 
 ## 👋 About me
 
-I'm a full stack developer building credit systems at **Banco BOCOM BBM**, where I work end to end, from **React** interfaces to **.NET** APIs and **SQL** databases.
+I'm a full stack developer on the Credit team at **Banco BOCOM BBM**, building systems with **React**, **.NET** and **SQL**, with an eye for clean architecture and Domain-Driven Design.
 
-Before that, I was a Systems Analyst Intern at **BNDES**, working with data and automation (Python, Power BI, Power Automate). I hold a B.Sc. in Computer Science from **CEFET/RJ**.
+Before that, I spent over a year at **BNDES** building Python and Power Automate RPAs to automate internal processes, plus Power BI dashboards to track how those automations performed. I hold a B.Sc. in Computer Science from **CEFET/RJ**.
 
-- 🔭 Currently building credit platform features with React, .NET and SQL
-- 🌱 Currently learning: [ADD WHAT YOU ARE STUDYING NOW]
-- 🤝 Open to: [E.G. OPEN SOURCE COLLABORATIONS, MENTORING, NEW OPPORTUNITIES]
+🗣️ Portuguese (native) · English (full professional) · Spanish (limited working)
 
 ## 🛠️ Tech stack
 
-**Daily use**
+**Core**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Also worked with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**IEEE CEFET/RJ Website**](https://ramocefetrj.com.br/) | Official website of the IEEE Student Branch at CEFET/RJ, built as a volunteer front-end developer. | React · Node.js · Docker |
-| [**Smart Home Monitoring**](https://github.com/Jh-Terencio/smart-home-monitoring) | IoT home monitoring system on a publish-subscribe architecture that tracks temperature, humidity, light, motion and presence from real or simulated sensors. | Python · Pub/Sub |
-| [**Marte Crochê**](https://martecroche.vercel.app) | [ADD A ONE-LINE DESCRIPTION] · [Code](https://github.com/Jh-Terencio/Marte-Croche-Static) | TypeScript |
-| [**InvestingAI**](https://github.com/Jh-Terencio/InvestingAI) | [ADD A ONE-LINE DESCRIPTION] | [ADD STACK] |
-
-<p align="right"><a href="https://github.com/Jh-Terencio?tab=repositories">See all repositories →</a></p>
+<!-- 🚀 Featured projects: add here as they are developed -->
 
 ## 💼 Experience
 
-**Banco BOCOM BBM**, Rio de Janeiro
-*Systems Analyst, Credit · Jul 2026 – Present*
-*Full Stack Developer · Nov 2024 – Jul 2026*
-- [ADD 1–2 RESULTS, E.G. "BUILT X THAT REDUCED Y BY Z%"]
-- Stack: React, TypeScript, .NET, SQL
+**Banco BOCOM BBM** · Rio de Janeiro
+*Systems Analyst (Full Stack Developer) · Jul 2026 – Present*
+*Systems Analyst Intern, Credit · Jan 2025 – Jul 2026*
 
-**BNDES (Brazilian Development Bank)**
-*Systems Analyst Intern · Nov 2023 – Nov 2024*
-- [ADD 1–2 RESULTS, E.G. AUTOMATIONS OR DASHBOARDS AND THEIR IMPACT]
-- Stack: Python, Power BI, Power Automate, Excel, SAP
+**BNDES (Brazilian Development Bank)** · Rio de Janeiro
+*Systems Analyst Intern · Nov 2023 – Dec 2024*
+- **Legal process automation:** Python RPA that searches lawsuits and records updates and deadlines in Projuris for the legal department, fed by a Power Automate flow that filters incoming Outlook emails into a SharePoint-hosted spreadsheet
+- **RPA metrics dashboard:** Power BI dashboards tracking the bank's RPAs, using Power Query to consume and transform data from the BMC Remedy REST API
 
-**Centauro Engenharia e Informática**
+**Centauro Engenharia e Informática** · Rio de Janeiro
 *IT Intern · May 2023 – Nov 2023*
-- Worked on the [company website](https://www.centaurotelecom.com.br/) and an internal operations web app
-- Stack: PHP, JavaScript, WordPress, HTML/CSS
+- **Operations portal:** web app in PHP, JavaScript, HTML and CSS to create, store and track the company's service orders, with third-party API integrations
+- **[Company website](https://www.centaurotelecom.com.br/):** built on WordPress and integrated with the customer service-order portal
 
-**IEEE CEFET/RJ Student Branch**
-*Front-End Developer (Volunteer) · Mar 2022 – [PRESENT OR END DATE]*
-- Built the [official branch website](https://ramocefetrj.com.br/) and the Smart Garden project
-- Stack: React, Node.js, Docker, Figma
+**IEEE CEFET/RJ Student Branch** · WolfByte team
+*Software Developer (Volunteer) · May 2022 – Dec 2024*
+- **[Official branch website](https://ramocefetrj.com.br/):** React app used to run the branch's member selection process
+- **Smart Garden:** React Native app to manage automatic irrigation systems, with a Dockerized mock back end and screens prototyped in Figma
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science**, CEFET/RJ · 2021 – 2026
-
-**Certifications:** [ADD CERTIFICATIONS, OR REMOVE THIS LINE]
+**B.Sc. in Computer Science** · CEFET/RJ · 2021 – 2026
 
 ## 📊 GitHub stats
 
