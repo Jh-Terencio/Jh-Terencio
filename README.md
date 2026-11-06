@@ -1,114 +1,87 @@
-<h1 align="center">Hi, I'm João Terêncio</h1>
+<p align="right">
+  🇺🇸 English · <a href="./README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
+<h1 align="center">João Terêncio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AF552E&center=true&vCenter=true&width=500&lines=Systems+Analyst+%40+BOCOM+BBM;Full+Stack+Developer;Computer+Science+%40+CEFET%2FRJ" alt="Systems Analyst at BOCOM BBM, Full Stack Developer, Computer Science at CEFET/RJ">
+  <b>Systems Analyst · Full Stack Developer @ BOCOM BBM</b><br>
+  Rio de Janeiro, Brazil 🇧🇷
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joao-terencio/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Jh-Terencio">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:jh.terencio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/joao-terencio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jh.terencio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## About Me
+---
 
-I'm a Systems Analyst at **BOCOM BBM**, working as a full stack developer in the Credit area.
+## 👋 About me
 
-- 🛠️ Day to day: **ReactJS**, **.NET** and **SQL**
-- 🎓 Computer Science graduate from **CEFET/RJ**
-- 🌎 Based in **Rio de Janeiro, Brazil**
+I'm a full stack developer on the Credit team at **Banco BOCOM BBM**, building systems with **React**, **.NET** and **SQL**, applying Domain-Driven Design (DDD).
 
-## Skills
+Before that, I spent over a year at **BNDES** building Python and Power Automate RPAs to automate internal processes, plus Power BI dashboards to track how those automations performed. I hold a B.Sc. in Computer Science from **CEFET/RJ**.
 
-| Area | Technologies |
-| :-- | :-- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%232370ED.svg?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
-| **Front-End** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
-| **Back-End & Frameworks** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) |
-| **Data & Analytics** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) |
+🌱 **Currently learning:** Alura's .NET Back-End Developer career, covering C# and ASP.NET Core APIs, testing, SOLID, design patterns, Clean Architecture, DDD, Docker and CI/CD, and later microservices, Azure and observability.
 
-## GitHub Stats
+🗣️ Portuguese (native) · English (full professional) · Spanish (limited working)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jh-Terencio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-Terencio&layout=compact&langs_count=6&title_color=783c00&text_color=af552e&bg_color=f8efd4&hide=MATLAB" alt="Top Languages">
-</div>
+## 🛠️ Tech stack
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jh-Terencio&background=f8efd4&ring=783c00&fire=af552e&currStreakLabel=783c00&sideLabels=af552e&sideNums=783c00&currStreakNum=af552e&dates=783c00" alt="GitHub Streak">
-</div>
+**Core**
 
-## Experience
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://github.com/user-attachments/assets/03794381-85a9-45fd-abdc-b09f7d962736" width="64" alt="BOCOM BBM">
-    </td>
-    <td>
-      <b>Banco BOCOM BBM</b><br>
-      Systems Analyst · Credit area · 07/2026 – Present<br>
-      Full Stack Developer · 11/2024 – 07/2026<br>
-      <code>ReactJS</code> <code>.NET</code> <code>JavaScript</code> <code>TypeScript</code> <code>SQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://jornalcocamar.com.br/wp-content/uploads/2023/08/Logo-BNDES-2048x2048.png" width="64" alt="BNDES">
-    </td>
-    <td>
-      <b>Banco Nacional de Desenvolvimento Econômico e Social (BNDES)</b><br>
-      Systems Analyst Intern · 11/2023 – 11/2024<br>
-      <code>Python</code> <code>Power BI</code> <code>Power Automate</code> <code>Excel</code> <code>SAP</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://github.com/user-attachments/assets/4352c695-97e0-479e-91ac-4dd9e8cb9cb7" width="64" alt="Centauro">
-    </td>
-    <td>
-      <b>Centauro Engenharia e Informática</b><br>
-      IT Intern · 05/2023 – 11/2023<br>
-      <code>PHP</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>WordPress</code><br>
-      Projects: <a href="https://www.centaurotelecom.com.br/">Centauro Official Website</a>, <a href="http://www2.centaurotelecom.com.br:8080/centauro_desk/">Centauro Operation Website</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://github.com/user-attachments/assets/559128ed-f81a-4a37-95fb-b48446d0b780" width="64" alt="IEEE">
-    </td>
-    <td>
-      <b>IEEE – CEFET/RJ</b><br>
-      Front-End Developer · 03/2022 – Present · Volunteer<br>
-      <code>ReactJS</code> <code>Node.js</code> <code>Docker</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>Figma</code><br>
-      Projects: <a href="https://ramocefetrj.com.br/">IEEE CEFET/RJ Official Branch Website</a>, Smart Garden
-    </td>
-  </tr>
-</table>
+**Also worked with**
 
-## Education
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://github.com/user-attachments/assets/0dbcce55-fd8c-4722-9a50-e6de9ddc5b0b" width="64" alt="CEFET/RJ">
-    </td>
-    <td>
-      <b>Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)</b><br>
-      Bachelor's Degree in Computer Science · 2021 – 2026
-    </td>
-  </tr>
-</table>
+## 💼 Experience
+
+**Banco BOCOM BBM** · Rio de Janeiro
+*Systems Analyst (Full Stack Developer) · Jul 2026 – Present*
+*Systems Analyst Intern, Credit · Jan 2025 – Jul 2026*
+
+**BNDES (Brazilian Development Bank)** · Rio de Janeiro
+*Systems Analyst Intern · Nov 2023 – Dec 2024*
+- **Legal process automation:** Python RPA that searches lawsuits and records updates and deadlines in Projuris for the legal department, fed by a Power Automate flow that filters incoming Outlook emails into a SharePoint-hosted spreadsheet
+- **RPA metrics dashboard:** Power BI dashboards tracking the bank's RPAs, using Power Query to consume and transform data from the BMC Remedy REST API
+
+**Centauro Engenharia e Informática** · Rio de Janeiro
+*IT Intern · May 2023 – Nov 2023*
+- **Operations portal:** web app in PHP, JavaScript, HTML and CSS to create, store and track the company's service orders, with third-party API integrations
+- **[Company website](https://www.centaurotelecom.com.br/):** built on WordPress and integrated with the customer service-order portal
+
+**IEEE CEFET/RJ Student Branch** · WolfByte team
+*Software Developer (Volunteer) · May 2022 – Dec 2024*
+- **[Official branch website](https://ramocefetrj.com.br/):** React app used to run the branch's member selection process
+- **Smart Garden:** React Native app to manage automatic irrigation systems, with a Dockerized mock back end and screens prototyped in Figma
+
+## 🎓 Education
+
+**B.Sc. in Computer Science** · CEFET/RJ · 2021 – 2026
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="João's GitHub stats">
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages">
+</p>
 
 ---
 
 <p align="center">
-  💬 Feel free to reach out! Let's connect on <a href="https://www.linkedin.com/in/joao-terencio/">LinkedIn</a> for more details about my experience, education and certificates.
+  Want to talk about tech, credit systems or a project? <a href="https://www.linkedin.com/in/joao-terencio/">Let's connect on LinkedIn</a> or <a href="mailto:jh.terencio@gmail.com">send me an email</a>.
 </p>
