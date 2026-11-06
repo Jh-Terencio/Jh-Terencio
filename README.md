@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-I'm a full stack developer on the Credit team at **Banco BOCOM BBM**, building systems with **React**, **.NET** and **SQL**, with an eye for clean architecture and Domain-Driven Design.
+I'm a full stack developer on the Credit team at **Banco BOCOM BBM**, building systems with **React**, **.NET** and **SQL**, applying Domain-Driven Design (DDD).
 
 Before that, I spent over a year at **BNDES** building Python and Power Automate RPAs to automate internal processes, plus Power BI dashboards to track how those automations performed. I hold a B.Sc. in Computer Science from **CEFET/RJ**.
 
