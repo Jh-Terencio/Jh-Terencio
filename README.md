@@ -22,6 +22,8 @@ I'm a full stack developer on the Credit team at **Banco BOCOM BBM**, building s
 
 Before that, I spent over a year at **BNDES** building Python and Power Automate RPAs to automate internal processes, plus Power BI dashboards to track how those automations performed. I hold a B.Sc. in Computer Science from **CEFET/RJ**.
 
+🌱 **Currently learning:** Alura's .NET Back-End Developer career, covering C# and ASP.NET Core APIs, testing, SOLID, design patterns, Clean Architecture, DDD, Docker and CI/CD, and later microservices, Azure and observability.
+
 🗣️ Portuguese (native) · English (full professional) · Spanish (limited working)
 
 ## 🛠️ Tech stack
@@ -45,8 +47,6 @@ Before that, I spent over a year at **BNDES** building Python and Power Automate
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<!-- 🚀 Featured projects: add here as they are developed -->
 
 ## 💼 Experience
 

@@ -22,6 +22,8 @@ Sou desenvolvedor full stack na área de Crédito do **Banco BOCOM BBM**, constr
 
 Antes disso, passei mais de um ano no **BNDES** desenvolvendo RPAs com Python e Power Automate para automatizar processos internos, além de dashboards em Power BI para acompanhar o desempenho dessas automações. Sou bacharel em Ciência da Computação pelo **CEFET/RJ**.
 
+🌱 **Estudando agora:** carreira de Desenvolvimento Back-End .NET da Alura, que cobre C# e APIs com ASP.NET Core, testes, SOLID, padrões de projeto, Arquitetura Limpa, DDD, Docker e CI/CD e, mais adiante, microsserviços, Azure e observabilidade.
+
 🗣️ Português (nativo) · Inglês (profissional completo) · Espanhol (intermediário)
 
 ## 🛠️ Stack
@@ -45,8 +47,6 @@ Antes disso, passei mais de um ano no **BNDES** desenvolvendo RPAs com Python e 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<!-- 🚀 Projetos em destaque: adicionar aqui conforme forem desenvolvidos -->
 
 ## 💼 Experiência
 
