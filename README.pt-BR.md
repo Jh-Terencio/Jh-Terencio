@@ -76,8 +76,8 @@ Antes disso, passei mais de um ano no **BNDES** desenvolvendo RPAs com Python e 
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jh-Terencio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4" alt="Estatísticas do GitHub de João">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-Terencio&layout=compact&langs_count=6&hide_border=true&hide=MATLAB,Jupyter%20Notebook&locale=pt-br&title_color=783c00&text_color=af552e&bg_color=f8efd4" alt="Linguagens mais usadas">
+  <img height="165" src="./profile/stats-pt-br.svg" alt="Estatísticas do GitHub de João">
+  <img height="165" src="./profile/top-langs-pt-br.svg" alt="Linguagens mais usadas">
 </p>
 
 ---

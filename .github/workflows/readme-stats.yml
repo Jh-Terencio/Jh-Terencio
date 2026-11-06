@@ -1,0 +1,66 @@
+name: Update README stats cards
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily at 06:17 UTC (03:17 in Rio de Janeiro)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/readme-stats.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      COLORS: title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=true
+    steps:
+      - uses: actions/checkout@v6
+
+      # Uses the GRS_TOKEN secret (a PAT, to include private stats) when it exists,
+      # otherwise falls back to the default token (public stats only).
+      - name: Generate stats card (EN)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&${{ env.COLORS }}
+          path: profile/stats.svg
+          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (EN)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=MATLAB,Jupyter%20Notebook&${{ env.COLORS }}
+          path: profile/top-langs.svg
+          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (pt-BR)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&${{ env.COLORS }}
+          path: profile/stats-pt-br.svg
+          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (pt-BR)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide=MATLAB,Jupyter%20Notebook&locale=pt-br&${{ env.COLORS }}
+          path: profile/top-langs-pt-br.svg
+          token: ${{ secrets.GRS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats cards" || exit 0
+          git push

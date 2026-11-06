@@ -76,8 +76,8 @@ Before that, I spent over a year at **BNDES** building Python and Power Automate
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jh-Terencio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4" alt="João's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-Terencio&layout=compact&langs_count=6&hide_border=true&hide=MATLAB,Jupyter%20Notebook&title_color=783c00&text_color=af552e&bg_color=f8efd4" alt="Top languages">
+  <img height="165" src="./profile/stats.svg" alt="João's GitHub stats">
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages">
 </p>
 
 ---
