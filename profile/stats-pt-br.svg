@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Jo&#227;o Henrique Ter&#234;ncio, Rank: C+</title>
-        <desc id="descId">Total de estrelas: 2, Total de Commits  : 422, Total de PRs: 3, Total de Issues: 9, Contribuiu para (ano passado): 4</desc>
+        <desc id="descId">Total de estrelas: 2, Total de Commits  : 422, Total de PRs: 3, Total de Issues: 9, Contribuiu para (ano passado): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="274.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
